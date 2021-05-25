@@ -116,7 +116,7 @@ C++ Code Repository.
   * [weighted_graph](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/blob/master/14%20%20Graphs/weighted_graph.cpp)
 * [DP1](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/tree/master/15%20DP1)
   * [frog_jumps](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/blob/master/15%20DP1/frog_jumps.cpp)
-  * [lcs](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/blob/master/15%20DP1/lcs.cpp0
+  * [lcs](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/blob/master/15%20DP1/lcs.cpp)
   * [lcs_bottom_up](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/blob/master/15%20DP1/lcs_bottom_up.cpp)
   * [rod_cutting](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/blob/master/15%20DP1/rod_cutting.cpp)
 * [LRU](https://github.com/sirilalithaadapa/data-structures-algorithms-level-up-bootcamp/tree/master/17%20LRU)
