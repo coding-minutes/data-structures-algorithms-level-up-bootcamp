@@ -16,6 +16,8 @@ bool outOfOrder(vector<int> arr,int i){
 }
 
 pair<int,int> subarraySort(vector<int> arr) {
+	
+	if(arr.size() == 1) return 0;
 
 	int smallest = INT_MAX;
 	int largest = INT_MIN;
