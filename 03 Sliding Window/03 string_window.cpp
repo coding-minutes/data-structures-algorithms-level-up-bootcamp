@@ -11,7 +11,7 @@ string find_window(string s,string p){
 	int FS[256] = {0};
 
 	for(int i=0;i<p.length();i++){
-		FP[ps[i]]++;
+		FP[p[i]]++;
 	}
 
 	//Sliding Window Algorithm
