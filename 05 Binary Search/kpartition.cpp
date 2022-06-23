@@ -27,6 +27,7 @@ int k_partition(int arr[],int n,int k){
     for(int i=0;i<n;i++){
         e += arr[i];
     }
+    e=e/k;
     //mid
     int mid;
     int ans;
