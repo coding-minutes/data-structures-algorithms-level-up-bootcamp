@@ -9,9 +9,9 @@ int sparse_search(string a[],int n,string key){
     int e = n-1;
     while(s<=e){
         int mid = (s+e)/2;
-        int mid_left = mid - 1;
-        int mid_right = mid + 1;
         if(a[mid]==""){
+            int mid_left = mid - 1;
+            int mid_right = mid + 1;
             while(1){
                 if(mid_left<s and mid_right>e){
                     return -1;
