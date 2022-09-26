@@ -1,6 +1,4 @@
-#include<iostream>
-#include<vector>
-#include<string>
+#include<bits/stdc++.h>
 using namespace std;
 
 //Complete this method, don't write main
@@ -30,7 +28,7 @@ vector<string> fizzbuzz(int n){
 
 int main(){
 
-	vector<string> output = fizzbuzz(10);
+	vector<string> output = fizzbuzz(50);
 	for(string x : output){
 		cout << x <<",";
 	}
